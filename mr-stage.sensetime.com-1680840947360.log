@@ -1,0 +1,566 @@
+index-9230136b.js:1 Setting
+index-9230136b.js:113 Array(2)
+index-9230136b.js:22 audio outdoor play
+index-9230136b.js:22 audio outdoor play
+index-9230136b.js:22 audio outdoor play
+index-9230136b.js:22 audio outdoor play
+index-9230136b.js:22 audio outdoor play
+index-9230136b.js:22 audio outdoor play
+index-9230136b.js:22 audio outdoor onPlay
+index-9230136b.js:113 Object
+index-9230136b.js:22 audio outdoor onPause
+index-9230136b.js:88 [veGame] raw264 supported is Object
+index-9230136b.js:101 veGameSDK version: 1.21.1-beta.0
+index-9230136b.js:88 [veGame] start...
+index-9230136b.js:88 [veGame] rtc supported is true: 
+index-9230136b.js:88 [veGame] init sdk...
+index-9230136b.js:88 [veGame] init success
+index-9230136b.js:88 [veGame] engine select...
+index-9230136b.js:82 controlright podSettings undefined
+(anonymous) @ index-9230136b.js:82
+ae @ index-9230136b.js:27
+Qe._invoke @ index-9230136b.js:27
+(anonymous) @ index-9230136b.js:27
+asyncGeneratorStep$1 @ index-9230136b.js:27
+ne @ index-9230136b.js:27
+(anonymous) @ index-9230136b.js:27
+(anonymous) @ index-9230136b.js:27
+_GameStart @ index-9230136b.js:82
+GameStart @ index-9230136b.js:82
+(anonymous) @ index-9230136b.js:88
+index-9230136b.js:82 [veGame] connect state change:  Object
+index-9230136b.js:82 [veGame] connect state change:  Object
+index-9230136b.js:82 [veGame] connect state change:  Object
+index-9230136b.js:82 [veGame] connect state change:  Object
+index-9230136b.js:82 [veGame] join room success, uid:  pc-16794738868093700
+index-9230136b.js:82 [veGame] onUserJoined Object
+index-9230136b.js:82 [veGame] stream-added success Object
+index-9230136b.js:22 audio outdoor play
+index-9230136b.js:22 audio outdoor onPlay
+index-9230136b.js:22 audio outdoor onPause
+mr-stage.sensetime.com/:1 Uncaught (in promise) Fcode: "TIME_OUT"error: undefinedmessage: "wait video timeout for userId: pc-16794738868093700"[[Prototype]]: Objectconstructor: ƒ F(G,Y,Z)length: 3name: "F"prototype: {constructor: ƒ}arguments: (...)caller: (...)[[FunctionLocation]]: index-9230136b.js:73[[Prototype]]: ƒ ()[[Scopes]]: Scopes[5][[Prototype]]: Object
+index-9230136b.js:101 message cloud-render-start-finish
+index-9230136b.js:113 onLoadSuccess Object
+index-9230136b.js:113 onCloudLoaded
+index-9230136b.js:22 audio outdoor play
+index-9230136b.js:22 audio outdoor onPlay
+index-9230136b.js:22 audio outdoor onPause
+index-9230136b.js:82 [veGame] connect state change:  {state: 1}
+index-9230136b.js:82 [veGame] connect state change:  {state: 4}
+index-9230136b.js:82 [veGame] connect state change:  {state: 6}
+index-9230136b.js:73     POST https://access.rtc.volcvideo.com/dispatch/v1/AccessInfo?Action=GetAccessInfo net::ERR_NAME_NOT_RESOLVED
+(anonymous) @ index-9230136b.js:73
+value @ index-9230136b.js:73
+value @ index-9230136b.js:73
+(anonymous) @ index-9230136b.js:73
+se @ index-9230136b.js:33
+(anonymous) @ index-9230136b.js:33
+(anonymous) @ index-9230136b.js:33
+asyncGeneratorStep @ index-9230136b.js:33
+ne @ index-9230136b.js:33
+(anonymous) @ index-9230136b.js:33
+(anonymous) @ index-9230136b.js:33
+(anonymous) @ index-9230136b.js:73
+(anonymous) @ index-9230136b.js:73
+se @ index-9230136b.js:33
+(anonymous) @ index-9230136b.js:33
+(anonymous) @ index-9230136b.js:33
+asyncGeneratorStep @ index-9230136b.js:33
+ne @ index-9230136b.js:33
+(anonymous) @ index-9230136b.js:33
+(anonymous) @ index-9230136b.js:33
+_createClass.value @ index-9230136b.js:73
+(anonymous) @ index-9230136b.js:73
+se @ index-9230136b.js:33
+(anonymous) @ index-9230136b.js:33
+(anonymous) @ index-9230136b.js:33
+asyncGeneratorStep @ index-9230136b.js:33
+ne @ index-9230136b.js:33
+(anonymous) @ index-9230136b.js:33
+(anonymous) @ index-9230136b.js:33
+_createClass.value @ index-9230136b.js:73
+(anonymous) @ index-9230136b.js:73
+se @ index-9230136b.js:33
+(anonymous) @ index-9230136b.js:33
+(anonymous) @ index-9230136b.js:33
+asyncGeneratorStep @ index-9230136b.js:33
+ne @ index-9230136b.js:33
+(anonymous) @ index-9230136b.js:33
+(anonymous) @ index-9230136b.js:33
+_createClass.value @ index-9230136b.js:73
+(anonymous) @ index-9230136b.js:75
+se @ index-9230136b.js:33
+(anonymous) @ index-9230136b.js:33
+(anonymous) @ index-9230136b.js:33
+asyncGeneratorStep @ index-9230136b.js:33
+ne @ index-9230136b.js:33
+(anonymous) @ index-9230136b.js:33
+(anonymous) @ index-9230136b.js:33
+_createClass.value @ index-9230136b.js:75
+(anonymous) @ index-9230136b.js:75
+se @ index-9230136b.js:33
+(anonymous) @ index-9230136b.js:33
+(anonymous) @ index-9230136b.js:33
+asyncGeneratorStep @ index-9230136b.js:33
+ne @ index-9230136b.js:33
+(anonymous) @ index-9230136b.js:33
+(anonymous) @ index-9230136b.js:33
+_createClass.value @ index-9230136b.js:75
+(anonymous) @ index-9230136b.js:75
+se @ index-9230136b.js:33
+(anonymous) @ index-9230136b.js:33
+(anonymous) @ index-9230136b.js:33
+asyncGeneratorStep @ index-9230136b.js:33
+ne @ index-9230136b.js:33
+(anonymous) @ index-9230136b.js:33
+(anonymous) @ index-9230136b.js:33
+(anonymous) @ index-9230136b.js:75
+(anonymous) @ index-9230136b.js:75
+se @ index-9230136b.js:33
+(anonymous) @ index-9230136b.js:33
+(anonymous) @ index-9230136b.js:33
+asyncGeneratorStep @ index-9230136b.js:33
+ne @ index-9230136b.js:33
+(anonymous) @ index-9230136b.js:33
+(anonymous) @ index-9230136b.js:33
+(anonymous) @ index-9230136b.js:75
+se @ index-9230136b.js:33
+(anonymous) @ index-9230136b.js:33
+(anonymous) @ index-9230136b.js:33
+asyncGeneratorStep @ index-9230136b.js:33
+ne @ index-9230136b.js:33
+(anonymous) @ index-9230136b.js:33
+(anonymous) @ index-9230136b.js:33
+_createClass.value @ index-9230136b.js:75
+value @ index-9230136b.js:75
+value @ index-9230136b.js:75
+oe.emit @ index-9230136b.js:73
+value @ index-9230136b.js:73
+(anonymous) @ index-9230136b.js:75
+oe.emit @ index-9230136b.js:73
+ae._peerConnection.onconnectionstatechange @ index-9230136b.js:73
+index-9230136b.js:73     POST https://access2-hl.rtc.volcvideo.com/dispatch/v1/AccessInfo?Action=GetAccessInfo net::ERR_NAME_NOT_RESOLVED
+(anonymous) @ index-9230136b.js:73
+value @ index-9230136b.js:73
+value @ index-9230136b.js:73
+(anonymous) @ index-9230136b.js:73
+se @ index-9230136b.js:33
+(anonymous) @ index-9230136b.js:33
+(anonymous) @ index-9230136b.js:33
+asyncGeneratorStep @ index-9230136b.js:33
+ne @ index-9230136b.js:33
+(anonymous) @ index-9230136b.js:33
+(anonymous) @ index-9230136b.js:33
+(anonymous) @ index-9230136b.js:73
+(anonymous) @ index-9230136b.js:73
+se @ index-9230136b.js:33
+(anonymous) @ index-9230136b.js:33
+(anonymous) @ index-9230136b.js:33
+asyncGeneratorStep @ index-9230136b.js:33
+ne @ index-9230136b.js:33
+(anonymous) @ index-9230136b.js:33
+(anonymous) @ index-9230136b.js:33
+_createClass.value @ index-9230136b.js:73
+(anonymous) @ index-9230136b.js:73
+se @ index-9230136b.js:33
+(anonymous) @ index-9230136b.js:33
+(anonymous) @ index-9230136b.js:33
+asyncGeneratorStep @ index-9230136b.js:33
+ne @ index-9230136b.js:33
+(anonymous) @ index-9230136b.js:33
+(anonymous) @ index-9230136b.js:33
+_createClass.value @ index-9230136b.js:73
+(anonymous) @ index-9230136b.js:73
+se @ index-9230136b.js:33
+(anonymous) @ index-9230136b.js:33
+(anonymous) @ index-9230136b.js:33
+asyncGeneratorStep @ index-9230136b.js:33
+ne @ index-9230136b.js:33
+(anonymous) @ index-9230136b.js:33
+(anonymous) @ index-9230136b.js:33
+_createClass.value @ index-9230136b.js:73
+(anonymous) @ index-9230136b.js:75
+se @ index-9230136b.js:33
+(anonymous) @ index-9230136b.js:33
+(anonymous) @ index-9230136b.js:33
+asyncGeneratorStep @ index-9230136b.js:33
+ne @ index-9230136b.js:33
+(anonymous) @ index-9230136b.js:33
+(anonymous) @ index-9230136b.js:33
+_createClass.value @ index-9230136b.js:75
+(anonymous) @ index-9230136b.js:75
+se @ index-9230136b.js:33
+(anonymous) @ index-9230136b.js:33
+(anonymous) @ index-9230136b.js:33
+asyncGeneratorStep @ index-9230136b.js:33
+ne @ index-9230136b.js:33
+(anonymous) @ index-9230136b.js:33
+(anonymous) @ index-9230136b.js:33
+_createClass.value @ index-9230136b.js:75
+(anonymous) @ index-9230136b.js:75
+se @ index-9230136b.js:33
+(anonymous) @ index-9230136b.js:33
+(anonymous) @ index-9230136b.js:33
+asyncGeneratorStep @ index-9230136b.js:33
+ne @ index-9230136b.js:33
+(anonymous) @ index-9230136b.js:33
+(anonymous) @ index-9230136b.js:33
+(anonymous) @ index-9230136b.js:75
+(anonymous) @ index-9230136b.js:75
+se @ index-9230136b.js:33
+(anonymous) @ index-9230136b.js:33
+(anonymous) @ index-9230136b.js:33
+asyncGeneratorStep @ index-9230136b.js:33
+ne @ index-9230136b.js:33
+(anonymous) @ index-9230136b.js:33
+(anonymous) @ index-9230136b.js:33
+(anonymous) @ index-9230136b.js:75
+se @ index-9230136b.js:33
+(anonymous) @ index-9230136b.js:33
+(anonymous) @ index-9230136b.js:33
+asyncGeneratorStep @ index-9230136b.js:33
+ne @ index-9230136b.js:33
+(anonymous) @ index-9230136b.js:33
+(anonymous) @ index-9230136b.js:33
+_createClass.value @ index-9230136b.js:75
+value @ index-9230136b.js:75
+value @ index-9230136b.js:75
+oe.emit @ index-9230136b.js:73
+value @ index-9230136b.js:73
+(anonymous) @ index-9230136b.js:75
+oe.emit @ index-9230136b.js:73
+ae._peerConnection.onconnectionstatechange @ index-9230136b.js:73
+index-9230136b.js:33     POST https://vegamemon.volces.com/event/collect/list net::ERR_NAME_NOT_RESOLVED
+(anonymous) @ index-9230136b.js:33
+w$1 @ index-9230136b.js:33
+F._send @ index-9230136b.js:33
+(anonymous) @ index-9230136b.js:33
+F._dealData @ index-9230136b.js:33
+F.report @ index-9230136b.js:33
+(anonymous) @ index-9230136b.js:33
+setTimeout (async)
+F.event @ index-9230136b.js:33
+F._commonEvent @ index-9230136b.js:33
+F._dealEvent @ index-9230136b.js:33
+F.event @ index-9230136b.js:33
+(anonymous) @ index-9230136b.js:33
+(anonymous) @ index-9230136b.js:33
+value @ index-9230136b.js:33
+value @ index-9230136b.js:82
+(anonymous) @ index-9230136b.js:82
+oe.emit @ index-9230136b.js:73
+value @ index-9230136b.js:73
+value @ index-9230136b.js:75
+value @ index-9230136b.js:75
+oe.emit @ index-9230136b.js:73
+value @ index-9230136b.js:73
+value @ index-9230136b.js:75
+oe.emit @ index-9230136b.js:73
+value @ index-9230136b.js:73
+set @ index-9230136b.js:75
+value @ index-9230136b.js:75
+value @ index-9230136b.js:75
+value @ index-9230136b.js:75
+oe.emit @ index-9230136b.js:73
+value @ index-9230136b.js:73
+(anonymous) @ index-9230136b.js:75
+oe.emit @ index-9230136b.js:73
+ae._peerConnection.onconnectionstatechange @ index-9230136b.js:73
+index-9230136b.js:82 [veGame] connect state change:  {state: 1}
+index-9230136b.js:82 [veGame] connect state change:  {state: 4}
+index-9230136b.js:82 [veGame] connect state change:  {state: 5}
+index-9230136b.js:82 [veGame] rtc-data-channel-error F {code: 'TIME_OUT', message: 'P2P message timeout', error: undefined}
+index-9230136b.js:82 Uncaught (in promise) {errorCode: 50001, message: 'ERROR_MESSAGE_NOT_READY'}
+(anonymous) @ index-9230136b.js:82
+index-9230136b.js:82 [veGame] rtc-data-channel-error F {code: 'TIME_OUT', message: 'P2P message timeout', error: undefined}
+index-9230136b.js:82 Uncaught (in promise) {errorCode: 50001, message: 'ERROR_MESSAGE_NOT_READY'}
+(anonymous) @ index-9230136b.js:82
+index-9230136b.js:82 [veGame] rtc-data-channel-error F {code: 'TIME_OUT', message: 'P2P message timeout', error: undefined}
+index-9230136b.js:82 Uncaught (in promise) {errorCode: 50001, message: 'ERROR_MESSAGE_NOT_READY'}
+(anonymous) @ index-9230136b.js:82
+index-9230136b.js:82 [veGame] rtc-data-channel-error F {code: 'TIME_OUT', message: 'P2P message timeout', error: undefined}
+index-9230136b.js:82 Uncaught (in promise) {errorCode: 50001, message: 'ERROR_MESSAGE_NOT_READY'}
+(anonymous) @ index-9230136b.js:82
+index-9230136b.js:82 [veGame] rtc-data-channel-error F {code: 'TIME_OUT', message: 'P2P message timeout', error: undefined}
+index-9230136b.js:82 Uncaught (in promise) {errorCode: 50001, message: 'ERROR_MESSAGE_NOT_READY'}
+(anonymous) @ index-9230136b.js:82
+index-9230136b.js:82 [veGame] rtc-data-channel-error F {code: 'TIME_OUT', message: 'P2P message timeout', error: undefined}
+index-9230136b.js:82 Uncaught (in promise) {errorCode: 50001, message: 'ERROR_MESSAGE_NOT_READY'}
+(anonymous) @ index-9230136b.js:82
+index-9230136b.js:82 [veGame] rtc-data-channel-error F {code: 'TIME_OUT', message: 'P2P message timeout', error: undefined}
+index-9230136b.js:82 Uncaught (in promise) {errorCode: 50001, message: 'ERROR_MESSAGE_NOT_READY'}
+(anonymous) @ index-9230136b.js:82
+index-9230136b.js:82 [veGame] rtc-data-channel-error F {code: 'TIME_OUT', message: 'P2P message timeout', error: undefined}
+index-9230136b.js:82 Uncaught (in promise) {errorCode: 50001, message: 'ERROR_MESSAGE_NOT_READY'}
+(anonymous) @ index-9230136b.js:82
+index-9230136b.js:82 [veGame] rtc-data-channel-error F {code: 'TIME_OUT', message: 'P2P message timeout', error: undefined}
+index-9230136b.js:82 Uncaught (in promise) {errorCode: 50001, message: 'ERROR_MESSAGE_NOT_READY'}
+(anonymous) @ index-9230136b.js:82
+index-9230136b.js:82 [veGame] rtc-data-channel-error F {code: 'TIME_OUT', message: 'P2P message timeout', error: undefined}
+index-9230136b.js:82 Uncaught (in promise) {errorCode: 50001, message: 'ERROR_MESSAGE_NOT_READY'}
+(anonymous) @ index-9230136b.js:82
+ [veGame] rtc-data-channel-error F {code: 'TIME_OUT', message: 'P2P message timeout', error: undefined}
+index-9230136b.js:82 Uncaught (in promise) {errorCode: 50001, message: 'ERROR_MESSAGE_NOT_READY'}
+(anonymous) @ index-9230136b.js:82
+ [veGame] rtc-data-channel-error F {code: 'TIME_OUT', message: 'P2P message timeout', error: undefined}
+index-9230136b.js:82 Uncaught (in promise) {errorCode: 50001, message: 'ERROR_MESSAGE_NOT_READY'}
+(anonymous) @ index-9230136b.js:82
+ [veGame] rtc-data-channel-error F {code: 'TIME_OUT', message: 'P2P message timeout', error: undefined}
+index-9230136b.js:82 Uncaught (in promise) {errorCode: 50001, message: 'ERROR_MESSAGE_NOT_READY'}
+(anonymous) @ index-9230136b.js:82
+ [veGame] rtc-data-channel-error F {code: 'TIME_OUT', message: 'P2P message timeout', error: undefined}
+index-9230136b.js:82 Uncaught (in promise) {errorCode: 50001, message: 'ERROR_MESSAGE_NOT_READY'}
+(anonymous) @ index-9230136b.js:82
+ [veGame] rtc-data-channel-error F {code: 'TIME_OUT', message: 'P2P message timeout', error: undefined}
+index-9230136b.js:82 Uncaught (in promise) {errorCode: 50001, message: 'ERROR_MESSAGE_NOT_READY'}
+(anonymous) @ index-9230136b.js:82
+ [veGame] rtc-data-channel-error F {code: 'TIME_OUT', message: 'P2P message timeout', error: undefined}
+index-9230136b.js:82 Uncaught (in promise) {errorCode: 50001, message: 'ERROR_MESSAGE_NOT_READY'}
+(anonymous) @ index-9230136b.js:82
+ [veGame] rtc-data-channel-error F {code: 'TIME_OUT', message: 'P2P message timeout', error: undefined}
+index-9230136b.js:82 Uncaught (in promise) {errorCode: 50001, message: 'ERROR_MESSAGE_NOT_READY'}
+(anonymous) @ index-9230136b.js:82
+ [veGame] rtc-data-channel-error F {code: 'TIME_OUT', message: 'P2P message timeout', error: undefined}
+index-9230136b.js:82 Uncaught (in promise) {errorCode: 50001, message: 'ERROR_MESSAGE_NOT_READY'}
+(anonymous) @ index-9230136b.js:82
+ [veGame] rtc-data-channel-error F {code: 'TIME_OUT', message: 'P2P message timeout', error: undefined}
+index-9230136b.js:82 Uncaught (in promise) {errorCode: 50001, message: 'ERROR_MESSAGE_NOT_READY'}
+(anonymous) @ index-9230136b.js:82
+ [veGame] rtc-data-channel-error F {code: 'TIME_OUT', message: 'P2P message timeout', error: undefined}
+index-9230136b.js:82 Uncaught (in promise) {errorCode: 50001, message: 'ERROR_MESSAGE_NOT_READY'}
+(anonymous) @ index-9230136b.js:82
+ [veGame] rtc-data-channel-error F {code: 'TIME_OUT', message: 'P2P message timeout', error: undefined}
+index-9230136b.js:82 Uncaught (in promise) {errorCode: 50001, message: 'ERROR_MESSAGE_NOT_READY'}
+(anonymous) @ index-9230136b.js:82
+ [veGame] rtc-data-channel-error F {code: 'TIME_OUT', message: 'P2P message timeout', error: undefined}
+index-9230136b.js:82 Uncaught (in promise) {errorCode: 50001, message: 'ERROR_MESSAGE_NOT_READY'}
+(anonymous) @ index-9230136b.js:82
+ [veGame] rtc-data-channel-error F {code: 'TIME_OUT', message: 'P2P message timeout', error: undefined}
+index-9230136b.js:82 Uncaught (in promise) {errorCode: 50001, message: 'ERROR_MESSAGE_NOT_READY'}
+(anonymous) @ index-9230136b.js:82
+ [veGame] rtc-data-channel-error F {code: 'TIME_OUT', message: 'P2P message timeout', error: undefined}
+index-9230136b.js:82 Uncaught (in promise) {errorCode: 50001, message: 'ERROR_MESSAGE_NOT_READY'}
+(anonymous) @ index-9230136b.js:82
+ [veGame] rtc-data-channel-error F {code: 'TIME_OUT', message: 'P2P message timeout', error: undefined}
+index-9230136b.js:82 Uncaught (in promise) {errorCode: 50001, message: 'ERROR_MESSAGE_NOT_READY'}
+(anonymous) @ index-9230136b.js:82
+ [veGame] rtc-data-channel-error F {code: 'TIME_OUT', message: 'P2P message timeout', error: undefined}
+index-9230136b.js:82 Uncaught (in promise) {errorCode: 50001, message: 'ERROR_MESSAGE_NOT_READY'}
+(anonymous) @ index-9230136b.js:82
+ [veGame] rtc-data-channel-error F {code: 'TIME_OUT', message: 'P2P message timeout', error: undefined}
+index-9230136b.js:82 Uncaught (in promise) {errorCode: 50001, message: 'ERROR_MESSAGE_NOT_READY'}
+(anonymous) @ index-9230136b.js:82
+ [veGame] rtc-data-channel-error F {code: 'TIME_OUT', message: 'P2P message timeout', error: undefined}
+index-9230136b.js:82 Uncaught (in promise) {errorCode: 50001, message: 'ERROR_MESSAGE_NOT_READY'}
+(anonymous) @ index-9230136b.js:82
+ [veGame] rtc-data-channel-error F {code: 'TIME_OUT', message: 'P2P message timeout', error: undefined}
+index-9230136b.js:82 Uncaught (in promise) {errorCode: 50001, message: 'ERROR_MESSAGE_NOT_READY'}
+(anonymous) @ index-9230136b.js:82
+ [veGame] rtc-data-channel-error F {code: 'TIME_OUT', message: 'P2P message timeout', error: undefined}
+index-9230136b.js:82 Uncaught (in promise) {errorCode: 50001, message: 'ERROR_MESSAGE_NOT_READY'}
+(anonymous) @ index-9230136b.js:82
+ [veGame] rtc-data-channel-error F {code: 'TIME_OUT', message: 'P2P message timeout', error: undefined}
+index-9230136b.js:82 Uncaught (in promise) {errorCode: 50001, message: 'ERROR_MESSAGE_NOT_READY'}
+(anonymous) @ index-9230136b.js:82
+ [veGame] rtc-data-channel-error F {code: 'TIME_OUT', message: 'P2P message timeout', error: undefined}
+index-9230136b.js:82 Uncaught (in promise) {errorCode: 50001, message: 'ERROR_MESSAGE_NOT_READY'}
+(anonymous) @ index-9230136b.js:82
+ [veGame] rtc-data-channel-error F {code: 'TIME_OUT', message: 'P2P message timeout', error: undefined}
+index-9230136b.js:82 Uncaught (in promise) {errorCode: 50001, message: 'ERROR_MESSAGE_NOT_READY'}
+(anonymous) @ index-9230136b.js:82
+ [veGame] rtc-data-channel-error F {code: 'TIME_OUT', message: 'P2P message timeout', error: undefined}
+index-9230136b.js:82 Uncaught (in promise) {errorCode: 50001, message: 'ERROR_MESSAGE_NOT_READY'}
+(anonymous) @ index-9230136b.js:82
+ [veGame] rtc-data-channel-error F {code: 'TIME_OUT', message: 'P2P message timeout', error: undefined}
+index-9230136b.js:82 Uncaught (in promise) {errorCode: 50001, message: 'ERROR_MESSAGE_NOT_READY'}
+(anonymous) @ index-9230136b.js:82
+ [veGame] rtc-data-channel-error F {code: 'TIME_OUT', message: 'P2P message timeout', error: undefined}
+index-9230136b.js:82 Uncaught (in promise) {errorCode: 50001, message: 'ERROR_MESSAGE_NOT_READY'}
+(anonymous) @ index-9230136b.js:82
+ [veGame] rtc-data-channel-error F {code: 'TIME_OUT', message: 'P2P message timeout', error: undefined}
+index-9230136b.js:82 Uncaught (in promise) {errorCode: 50001, message: 'ERROR_MESSAGE_NOT_READY'}
+(anonymous) @ index-9230136b.js:82
+ [veGame] rtc-data-channel-error F {code: 'TIME_OUT', message: 'P2P message timeout', error: undefined}
+index-9230136b.js:82 Uncaught (in promise) {errorCode: 50001, message: 'ERROR_MESSAGE_NOT_READY'}
+(anonymous) @ index-9230136b.js:82
+ [veGame] rtc-data-channel-error F {code: 'TIME_OUT', message: 'P2P message timeout', error: undefined}
+index-9230136b.js:82 Uncaught (in promise) {errorCode: 50001, message: 'ERROR_MESSAGE_NOT_READY'}
+(anonymous) @ index-9230136b.js:82
+ [veGame] rtc-data-channel-error F {code: 'TIME_OUT', message: 'P2P message timeout', error: undefined}
+index-9230136b.js:82 Uncaught (in promise) {errorCode: 50001, message: 'ERROR_MESSAGE_NOT_READY'}
+(anonymous) @ index-9230136b.js:82
+ [veGame] rtc-data-channel-error F {code: 'TIME_OUT', message: 'P2P message timeout', error: undefined}
+index-9230136b.js:82 Uncaught (in promise) {errorCode: 50001, message: 'ERROR_MESSAGE_NOT_READY'}
+(anonymous) @ index-9230136b.js:82
+ [veGame] rtc-data-channel-error F {code: 'TIME_OUT', message: 'P2P message timeout', error: undefined}
+index-9230136b.js:82 Uncaught (in promise) {errorCode: 50001, message: 'ERROR_MESSAGE_NOT_READY'}
+(anonymous) @ index-9230136b.js:82
+ [veGame] rtc-data-channel-error F {code: 'TIME_OUT', message: 'P2P message timeout', error: undefined}
+index-9230136b.js:82 Uncaught (in promise) {errorCode: 50001, message: 'ERROR_MESSAGE_NOT_READY'}
+(anonymous) @ index-9230136b.js:82
+ [veGame] rtc-data-channel-error F {code: 'TIME_OUT', message: 'P2P message timeout', error: undefined}
+index-9230136b.js:82 Uncaught (in promise) {errorCode: 50001, message: 'ERROR_MESSAGE_NOT_READY'}
+(anonymous) @ index-9230136b.js:82
+ [veGame] rtc-data-channel-error F {code: 'TIME_OUT', message: 'P2P message timeout', error: undefined}
+index-9230136b.js:82 Uncaught (in promise) {errorCode: 50001, message: 'ERROR_MESSAGE_NOT_READY'}
+(anonymous) @ index-9230136b.js:82
+ [veGame] rtc-data-channel-error F {code: 'TIME_OUT', message: 'P2P message timeout', error: undefined}
+index-9230136b.js:82 Uncaught (in promise) {errorCode: 50001, message: 'ERROR_MESSAGE_NOT_READY'}
+(anonymous) @ index-9230136b.js:82
+ [veGame] rtc-data-channel-error F {code: 'TIME_OUT', message: 'P2P message timeout', error: undefined}
+index-9230136b.js:82 Uncaught (in promise) {errorCode: 50001, message: 'ERROR_MESSAGE_NOT_READY'}
+(anonymous) @ index-9230136b.js:82
+ [veGame] rtc-data-channel-error F {code: 'TIME_OUT', message: 'P2P message timeout', error: undefined}
+index-9230136b.js:82 Uncaught (in promise) {errorCode: 50001, message: 'ERROR_MESSAGE_NOT_READY'}
+(anonymous) @ index-9230136b.js:82
+ [veGame] rtc-data-channel-error F {code: 'TIME_OUT', message: 'P2P message timeout', error: undefined}
+index-9230136b.js:82 Uncaught (in promise) {errorCode: 50001, message: 'ERROR_MESSAGE_NOT_READY'}
+(anonymous) @ index-9230136b.js:82
+ [veGame] rtc-data-channel-error F {code: 'TIME_OUT', message: 'P2P message timeout', error: undefined}
+index-9230136b.js:82 Uncaught (in promise) {errorCode: 50001, message: 'ERROR_MESSAGE_NOT_READY'}
+(anonymous) @ index-9230136b.js:82
+ [veGame] rtc-data-channel-error F {code: 'TIME_OUT', message: 'P2P message timeout', error: undefined}
+ [veGame] rtc-data-channel-error F {code: 'TIME_OUT', message: 'P2P message timeout', error: undefined}
+index-9230136b.js:82 Uncaught (in promise) {errorCode: 50001, message: 'ERROR_MESSAGE_NOT_READY'}
+(anonymous) @ index-9230136b.js:82
+index-9230136b.js:82 Uncaught (in promise) {errorCode: 50001, message: 'ERROR_MESSAGE_NOT_READY'}
+(anonymous) @ index-9230136b.js:82
+ [veGame] rtc-data-channel-error F {code: 'TIME_OUT', message: 'P2P message timeout', error: undefined}
+index-9230136b.js:82 Uncaught (in promise) {errorCode: 50001, message: 'ERROR_MESSAGE_NOT_READY'}
+(anonymous) @ index-9230136b.js:82
+ [veGame] rtc-data-channel-error F {code: 'TIME_OUT', message: 'P2P message timeout', error: undefined}
+index-9230136b.js:82 Uncaught (in promise) {errorCode: 50001, message: 'ERROR_MESSAGE_NOT_READY'}
+(anonymous) @ index-9230136b.js:82
+ [veGame] rtc-data-channel-error F {code: 'TIME_OUT', message: 'P2P message timeout', error: undefined}
+index-9230136b.js:82 Uncaught (in promise) {errorCode: 50001, message: 'ERROR_MESSAGE_NOT_READY'}
+(anonymous) @ index-9230136b.js:82
+ [veGame] rtc-data-channel-error F {code: 'TIME_OUT', message: 'P2P message timeout', error: undefined}
+index-9230136b.js:82 Uncaught (in promise) {errorCode: 50001, message: 'ERROR_MESSAGE_NOT_READY'}
+(anonymous) @ index-9230136b.js:82
+ [veGame] rtc-data-channel-error F {code: 'TIME_OUT', message: 'P2P message timeout', error: undefined}
+index-9230136b.js:82 Uncaught (in promise) {errorCode: 50001, message: 'ERROR_MESSAGE_NOT_READY'}
+(anonymous) @ index-9230136b.js:82
+ [veGame] rtc-data-channel-error F {code: 'TIME_OUT', message: 'P2P message timeout', error: undefined}
+index-9230136b.js:82 Uncaught (in promise) {errorCode: 50001, message: 'ERROR_MESSAGE_NOT_READY'}
+(anonymous) @ index-9230136b.js:82
+ [veGame] rtc-data-channel-error F {code: 'TIME_OUT', message: 'P2P message timeout', error: undefined}
+index-9230136b.js:82 Uncaught (in promise) {errorCode: 50001, message: 'ERROR_MESSAGE_NOT_READY'}
+(anonymous) @ index-9230136b.js:82
+ audio outdoor play
+ audio outdoor onPlay
+ message flying-end
+ message scene-passthrough-finish
+ audio outdoor pause
+ audio indoor play
+ audio outdoor onPause
+ audio indoor onPlay
+ audio indoor pause
+ onBeforeUnmount
+ veGame destroy
+ [veGame] stop Video Stream 
+ [veGame] stop Send Audio Stream 
+ [veGame] stop
+ audio outdoor play
+ [veGame] stop sccuess
+ 生成新的sessionId:sid_6d8e7417-4f1f-4655-86cc-72d17330ec5c
+ audio indoor onPause
+ audio outdoor onPlay
+ {platform: 'VOLCENGIN', accessKey: 'AKTPZWU0YzE0ODRiOWVjNGE4YWI4ZTc3YzhjMjUzNzY0NWU', secretKey: 'MGZjMTgwZmMzOTk4NDBhMmFiZTYyMjRjNmNiYmIyZjU', sessionToken: 'STSeyJBY2NvdW50SWQiOjIxMDAzNTAzNDQsIklkZW50aXR5VHl…hbWUiOiJnYW1lIiwiT3JpZ2luYWxJZGVudGl0eVR5cGUiOjJ9', expiredTime: '2023-04-07T13:12:34+08:00', …}
+ [veGame] raw264 supported is {result: false, info: '请先安装 socket 插件'}
+ veGameSDK version: 1.21.1-beta.0
+ [veGame] start...
+ [veGame] rtc supported is true: 
+ [veGame] init sdk...
+ [veGame] init success
+ [veGame] engine select...
+ controlright podSettings undefined
+(anonymous) @ index-9230136b.js:82
+ae @ index-9230136b.js:27
+Qe._invoke @ index-9230136b.js:27
+(anonymous) @ index-9230136b.js:27
+asyncGeneratorStep$1 @ index-9230136b.js:27
+ne @ index-9230136b.js:27
+(anonymous) @ index-9230136b.js:27
+(anonymous) @ index-9230136b.js:27
+GameStart @ index-9230136b.js:82
+(anonymous) @ index-9230136b.js:88
+Promise.then (async)
+(anonymous) @ index-9230136b.js:88
+value @ index-9230136b.js:88
+value @ index-9230136b.js:88
+(anonymous) @ index-9230136b.js:101
+(anonymous) @ index-9230136b.js:1
+hr @ index-9230136b.js:1
+_e @ index-9230136b.js:101
+(anonymous) @ index-9230136b.js:101
+(anonymous) @ index-9230136b.js:1
+callWithErrorHandling @ index-9230136b.js:1
+callWithAsyncErrorHandling @ index-9230136b.js:1
+G.__weh.G.__weh @ index-9230136b.js:1
+flushPostFlushCbs @ index-9230136b.js:1
+flushJobs @ index-9230136b.js:1
+Promise.then (async)
+queueFlush @ index-9230136b.js:1
+queueJob @ index-9230136b.js:1
+(anonymous) @ index-9230136b.js:1
+triggerEffect @ index-9230136b.js:1
+triggerEffects @ index-9230136b.js:1
+triggerRefValue @ index-9230136b.js:1
+set value @ index-9230136b.js:1
+ge @ index-9230136b.js:113
+callWithErrorHandling @ index-9230136b.js:1
+callWithAsyncErrorHandling @ index-9230136b.js:1
+emit @ index-9230136b.js:1
+(anonymous) @ index-9230136b.js:27
+Promise.then (async)
+nextTick @ index-9230136b.js:1
+(anonymous) @ index-9230136b.js:27
+te @ index-9230136b.js:1
+Promise.then (async)
+oe @ index-9230136b.js:1
+(anonymous) @ index-9230136b.js:1
+hr @ index-9230136b.js:1
+Fe @ index-9230136b.js:27
+callWithErrorHandling @ index-9230136b.js:1
+callWithAsyncErrorHandling @ index-9230136b.js:1
+Y @ index-9230136b.js:1
+ [veGame] connect state change:  {state: 2}
+ [veGame] connect state change:  {state: 1}
+ [veGame] connect state change:  {state: 2}
+ [veGame] connect state change:  {state: 3}
+ [veGame] join room success, uid:  pc-16794738868093700
+ [veGame] onUserJoined {userInfo: {…}}
+ [veGame] stream-added success {userId: 'pc-16794738868093700', mediaType: 3, videoStreamDescriptions: Array(1)}
+ [veGame] subscribed stream success
+ [veGame] play start
+ [veGame] audioEle 
+ [veGame] first  audio frame time: 4935ms
+ [veGame] video play success
+ [veGame] first frame time: 5266ms
+ veGame start: {roundId: '1', reservedId: '7219153279391914789', gameId: '7211062883860470589', extra: undefined, width: 1920, …}
+ message cloud-render-start-finish
+ onLoadSuccess {}
+ onCloudLoaded
+ message touch-event-recved
+ message touch-event-recved
+ message touch-event-recved
+ audio outdoor onPause
+ message touch-event-recved
+ audio outdoor play
+ audio outdoor onPlay
+ message touch-event-recved
+ message touch-event-recved
+temp1
+undefined
+ message touch-event-recved
+ message flying-end
+ message scene-passthrough-finish
+ audio outdoor pause
+ audio indoor play
+ audio outdoor onPause
+ audio indoor onPlay
+ message touch-event-recved
+ audio indoor onPause
+ audio indoor play
+ audio indoor onPlay
+ message touch-event-recved

@@ -22,9 +22,9 @@ def run(roam_time, plat):
     client = webdriver.Chrome(options=options)
     client.set_window_size(1200, 800)
     if plat == 'all':
-        url = 'https://mr-stage.sensetime.com/nerf-press/stress-testing/'
+        url = 'https://mr-stage.sensetime.com/nerf-press/stress-testing/?debug=1&stats=1'
     else:
-        url = 'https://mr-stage.sensetime.com/nerf-press/stress-testing/?render=%s' % plat
+        url = 'https://mr-stage.sensetime.com/nerf-press/stress-testing/?render=%s&debug=1&stats=1' % plat
     client.get(url)
     wait = WebDriverWait(client, 240)
     wait.until(visibility_of_element_located((By.CLASS_NAME, "enter-btn")))
@@ -37,7 +37,7 @@ def run(roam_time, plat):
 
 def fly(roam_time, client):
     current_time = 0
-    while current_time <= roam_time:
+    while current_time < roam_time:
         step = 1
         if current_time > 0:
             client.find_element(By.CLASS_NAME, 'enter-btn').click()
@@ -57,8 +57,8 @@ def fly(roam_time, client):
         time.sleep(1)
         home = client.find_element(By.XPATH, "//span[contains(text(),'返回首页')]")  # 返回首页
         home.click()
-        time.sleep(60)  # XR释放容器时间
         current_time += step
+        time.sleep(60)  # XR释放容器时间
 
 
 def random_fly_outdoor(client, path):

@@ -22,9 +22,9 @@ def run(roam_time, plat):
     client = webdriver.Chrome(options=options)
     client.set_window_size(1200, 800)
     if plat == 'all':
-        url = 'https://mr-stage.sensetime.com/nerf-press/stress-testing/?debug=1&stats=1'
+        url = 'https://mr-stage.sensetime.com/nerf-press/normal/?debug=1&stats=1'
     else:
-        url = 'https://mr-stage.sensetime.com/nerf-press/stress-testing/?render=%s&debug=1&stats=1' % plat
+        url = 'https://mr-stage.sensetime.com/nerf-press/normal/?render=%s&debug=1&stats=1' % plat
     client.get(url)
     wait = WebDriverWait(client, 240)
     wait.until(visibility_of_element_located((By.CLASS_NAME, "enter-btn")))
@@ -41,24 +41,26 @@ def fly(roam_time, client):
         step = 1
         if current_time > 0:
             client.find_element(By.CLASS_NAME, 'enter-btn').click()
-            wait = WebDriverWait(client, 240)
+            wait = WebDriverWait(client, 2400)
             wait.until(visibility_of_element_located((By.XPATH, "//div[contains(text(),'场景穿越')]")))
         tag = client.find_element(By.XPATH, "//div[contains(text(),'场景穿越')]")
         random_fly_outdoor(client, tag)  # 室外飞行
         time.sleep(2)
         over = client.find_element(By.CLASS_NAME, "text")
         ActionChains(client).move_to_element(over).click().perform()
-        wait = WebDriverWait(client, 240)
-        wait.until(visibility_of_element_located((By.CLASS_NAME, 'more-item')))
-        more = client.find_element(By.CLASS_NAME, 'more-item')  # 更多
-        random_driving(client, more)
-        time.sleep(2)
-        more.click()
+        wait = WebDriverWait(client, 2400)
+        try:
+            wait.until(visibility_of_element_located((By.CLASS_NAME, 'more-item')))
+            more = client.find_element(By.CLASS_NAME, 'more-item')  # 更多
+            random_driving(client, more)
+            time.sleep(2)
+            more.click()
+        except:
+            print('室内场景体验失败～')
         time.sleep(1)
         home = client.find_element(By.XPATH, "//span[contains(text(),'返回首页')]")  # 返回首页
         home.click()
         current_time += step
-        time.sleep(60)  # XR释放容器时间
 
 
 def random_fly_outdoor(client, path):
